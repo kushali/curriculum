@@ -1,9 +1,13 @@
 # Object Orientation: Classes, Instances, and Methods
 
 ## Overview
-Rubyists always say "in Ruby, everything is an object." From a beginner's perspective, that's quite confusing. Objects know information, called attributes, and they can do actions, called methods. A more useful statement than "everything is an object" could be "every class is an object, and every method returns an object."
+Linguists group spoken languages into categories. For example, French, Italian, and Spanish are all romance languages. Similarily, computer scientists group programming languages into categories. Ruby is an Object Oriented programming language. 
 
-For an example of an object, think about you as a human being. You have attributes like height, weight, and eye color. You have methods like "walk", "run", "wash dishes", and "daydream." Different kinds of objects have different attributes and methods. In the next sections we’ll look at a few specific kinds of objects common in Ruby.
+In computer science, an object is a collection of data and functionality that logical go together. Frequently objects represent real world things. For example if you created an object to represent yourself (a "me" object) it would have some identifying data such as name, height, and eye color. In computer science, these pieces of data are called attributes. Your "me" object would also have some functionality such as walk, talk, and daydream. In programming things objects do are called methods. Sometimes methods can produce output. A talk method might return words, for example. If you are having trouble remembering the difference between methods and attributes a general rule is: Methods are verbs, adjectives and nouns are attributes.
+
+In programming we create new objects from classes. A class is an abstract idea, sort of like a very rough blueprint. Think about your "me" object again. You are an actual human being, not the abstract idea of a human being. In programming, we call the actual thing an object or an instance. The abstract idea is a class. The class Human specifies what attributes all humans have such as a height and a name. The instance has specific values for these attributes like "5.5 feet" and "Marsha". The class also specifies what individual Humans can do like walk and talk but the instances perform these actions.
+
+Rubyists are fond of saying "in Ruby everything is an object". What that means is that every piece of data in a ruby is an instance of some class. Every piece of data in Ruby has both attributes and methods that can be interacted with. Also every method returns (outputs) an object of some kind or another.
 
 A class is an abstract idea. It defines what all objects of that type can know and do. Think of the chair you’re sitting in. It’s not an abstract chair, it is an actual chair. We’d call this actual chair an instance - it is a realization of the idea chair. It has measurable attributes like height, color, weight. The class chair, on the other hand, has an abstract weight, color, and size – we can’t determine them ahead of time.
 
