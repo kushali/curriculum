@@ -47,7 +47,7 @@ To make your future project work easier, create a directory called "projects" on
 * Variables (Local & Environment)
 
 ### Resources
-[Mac Terminal Cheatsheet]("https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-)")
+[Mac Terminal Cheatsheet] https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-)
 
 [Bash Hackers Wiki](http://wiki.bash-hackers.org/scripting/basics "The basics of shell scripting    [Bash Hackers Wiki]")  
  
