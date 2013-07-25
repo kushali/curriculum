@@ -24,12 +24,12 @@ We want to ensure that everyone coming into Ada Developers' Academy has similar 
 ### Assignments
 The following assignments are due before the first day of class. ADA mentors will be available during business hours to help with any problems that you encounter.
 
-* Read: [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org)
 * Environment Setup: Read through [Ruby and RVM Installation](/lessons/00_ruby-rvm-installation.md). If you choose to do so, you may use the [Rails Installer](http://railsinstaller.org) to download and install the required development tools (however, you may encounter bugs).
 * Create an account and fill out your profile on [Github](Github.com) - [Github.com](http://Github.com) will be an important web service in our program.
 * Complete the following online tutorials
-    - [Try Ruby](http://tryruby.org)
+    - [Code Academy's Ruby Track](http://www.codecademy.com/tracks/ruby)
     - [Git Immersion](http://gitimmersion.com)
+
 
 ## Classroom
 At ADA, we want to provide a learning environment that is comfortable, positive and packed with learning. To do this, each day will be structured loosely in the following way:
